@@ -1,0 +1,7 @@
+# folders
+docs/_build
+
+# files
+*.log
+*.mo
+.DS_Store
