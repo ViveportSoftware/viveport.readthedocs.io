@@ -10,6 +10,7 @@ Welcome to VIVEPORT's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   faq
 
 
 Indices and tables
